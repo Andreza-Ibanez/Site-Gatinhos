@@ -1,0 +1,54 @@
+.tituloraças{
+    font-size: 50px;
+    width: 430px;
+    height: 300px;
+    background-image: url(img/imagem\ de\ fundo\ para\ o\ titulo\ raças.png);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    font-size: 30px;
+    color: aliceblue;
+}
+
+.imagensraças{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    background-image: url(img/fundo\ raças\ 3.jpg);
+    gap: 20px 20px;
+    
+}
+
+
+
+.textosrd{
+
+    width: 600px;
+    height: 650px;
+    color: aliceblue;
+    background-image: url(img/fundo\ raças\ 3.jpg);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.musica{
+
+    width: 500px;
+    height: 120px; 
+    background-color: rosybrown;
+
+
+}
+
+body{
+    background-image: url(img/fundo\ raças\ 3.jpg);
+
+}
+
+.rodape{
+
+    color: aliceblue;
+}
